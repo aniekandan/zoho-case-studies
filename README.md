@@ -31,5 +31,6 @@ A comprehensive portfolio of business process automations and ERP solutions arch
 * [**Zoho Helper Python Library**](https://github.com/aniekandan/zoho_lib)  
   *An abstract library for programmatic data exchanges using Pandas DataFrames.*
 
+© 2026 Aniekan Daniel. View the [Main Portfolio](https://aniekandan.github.io/).
 ---
 *Generated from detailed technical activity logs (2025-2026).*
