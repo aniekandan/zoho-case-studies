@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Enterprise Financial Reporting & Asset Automation"
-permalink: /financial-reporting-dashboard
+tagline: "Real-time enterprise asset tracking and custom ledger reporting."
+permalink: /financial-reporting-dashboard/
 ---
 
 ## 🏦 Business Context
