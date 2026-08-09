@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Enterprise Financial Reporting & Asset Automation"
-permalink: /financial-reporting-dashboard/
+permalink: /financial-reporting-dashboard
 ---
 
 ## 🏦 Business Context
