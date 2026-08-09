@@ -1,6 +1,7 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
 
 title: Zoho Case Studies
-description: Technical documentation and architectural case studies for Zoho-based business applications.
+tagline: Technical documentation and architectural case studies for Zoho-based business applications.
+description: A comprehensive portfolio of business process automations and ERP solutions architected within the Zoho Ecosystem.
