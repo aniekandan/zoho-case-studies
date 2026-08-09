@@ -5,3 +5,4 @@ plugins:
 title: Zoho Case Studies
 tagline: Technical documentation and architectural case studies for Zoho-based business applications.
 description: A comprehensive portfolio of business process automations and ERP solutions architected within the Zoho Ecosystem.
+markdown: kramdown
