@@ -10,7 +10,7 @@ A comprehensive portfolio of business process automations and ERP solutions arch
 ## 📁 Table of Contents
 
 ### 🏦 Financial & Asset Management
-* [**Automated Financial Reporting Dashboard**](veritasi-financial-reports.md)  
+* [**Automated Financial Reporting Dashboard**](financial-reporting-dashboard.md)  
   *Implementing real-time P&L, Balance Sheets, and automated Journal entries for asset disposal.*
 * [**Financial Position & PL Metric Automation**](wtg-financial-dashboards.md)  
   *Advanced data wrangling for monthly PL transactions and cumulative account metrics.*
