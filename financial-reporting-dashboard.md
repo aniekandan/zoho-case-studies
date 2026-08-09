@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Enterprise Financial Reporting & Asset Automation"
 permalink: /financial-reporting-dashboard
 ---
