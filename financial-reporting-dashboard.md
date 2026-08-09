@@ -1,9 +1,3 @@
----
-layout: page
-title: "Enterprise Financial Reporting & Asset Automation"
-permalink: /financial-reporting-dashboard/
----
-
 ## 🏦 Business Context
 The organization required a unified, real-time financial reporting system to replace manual spreadsheet-based analysis. The goal was to provide executives with instant visibility into Profit & Loss (P&L) and Balance Sheets while automating the accounting lifecycle of company assets.
 
